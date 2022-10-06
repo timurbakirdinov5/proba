@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+#header {
+    width: 100%;
+    height: 150px;
+    background: black;
+}
+
+.UI {
+    margin: 10px;
+}
+
+.block {
+    position: absolute;
+    margin: 40px 0 100px 90px;
+    width: 1070px;
+    height: 62px;
+    background: rgba(121, 116, 116, 0.1);
+    border: 3px solid #FF0000;
+    border-radius: 12px;
+    margin-left: 200px;
+}
+
+.header a {
+    color: white;
+}
+
+.menu {
+    color: white;
+    margin-top: -50px;
+    margin-left: 300px;
+}
+
+.menu a {
+    margin: 0 20px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.btn{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -31px;
+    margin-right: 10px;
+
+}
+.btn a{
+    border: 3px solid #FFFFFF;
+    border-radius: 7px;
+    width: 209px;
+    height: 46px;
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.text h1{
+    font-size: 144px;
+    line-height: 173px;
+    letter-spacing: 0.065em;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+#UiAndUx{
+background: black;
+}
+.hand1{
+    position: absolute;
+    margin: 100px;
+}
